@@ -1,6 +1,8 @@
 # Phase-3-week-3-code-challenge
 # RESTAURANT WITH SQLALCHEMY
 
+## Description
+
 For this assignment, we'll be working with a restaurant review domain.
 
 We have three models: `Restaurant`, `Review`, and `Customer`.
