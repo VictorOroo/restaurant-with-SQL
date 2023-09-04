@@ -52,7 +52,7 @@ Similarly, messy code that works is better than clean code that doesn't. First, 
 **What You Need to Have**
 You need to have migrations and models for the initial `Restaurant` and `Customer` models, and seed data for some `Restaurant`s and `Customer`s.
 
-You will need to create the migration for the `reviews` table using the attributes specified in the deliverables below.
+You will need to create the migration for the `reviews` table.
 
 ## Setup Requirements
    - Git
