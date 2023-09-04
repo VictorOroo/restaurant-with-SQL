@@ -20,7 +20,7 @@ if __name__=='__main__':
     print("seeding.....")
 
     restaurants=[]
-    for i in range(3):
+    for i in range(5):
         restaurant=Restaurant(
             name=fake.name(),
             price=fake.pyint()
