@@ -15,9 +15,7 @@ For our purposes, a `Restaurant` has many `Review`s, a `Customer` has many
 
  
 
-**Note**: You should draw your domain on paper or on a whiteboard _before you
 
-start coding_. Remember to identify a single source of truth for your data.
 
 ## Topics
  
@@ -48,4 +46,27 @@ Writing error-free code is more important than completing all of the deliverable
 
 Similarly, messy code that works is better than clean code that doesn't. First, prioritize getting things working. Then, if there is time at the end, refactor your code to adhere to best practices. 
 
-**Before you submit!** Save and run your code to verify that it works as you expect. If you have any methods that are not working yet, feel free to leave comments describing your progress.
+
+**What You Need to Have**
+You need to have migrations and models for the initial `Restaurant` and `Customer` models, and seed data for some `Restaurant`s and `Customer`s.
+
+You will need to create the migration for the `reviews` table using the attributes specified in the deliverables below.
+
+## Setup Requirements
+   - Git
+   - Github
+   - Visiual studio Code
+
+## Technologies Used
+
+The following have been used on this project:
+
+- Python 3
+- SqlAchemy
+
+## Project Setup
+Clone my repository into your machine(git@github.com:VictorOroo/restaurant-with-SQL.git)
+
+ ## Support and contact details 🙂
+To make a contribution to the code used or any suggestions you can click on the contact link and email me your suggestions.
+- Email: victor.oroo@student.moringaschool.com
