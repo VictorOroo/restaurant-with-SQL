@@ -66,6 +66,11 @@ The following have been used on this project:
 
 ## Project Setup
 Clone my repository into your machine(git@github.com:VictorOroo/restaurant-with-SQL.git)
+install dependencies by running the following
+-  Pipenv install alembic
+-  pipenv install Sqlachemy
+-  Pipenv install Faker
+-  Pipenv shell
 
  ## Support and contact details 🙂
 To make a contribution to the code used or any suggestions you can click on the contact link and email me your suggestions.
