@@ -17,7 +17,7 @@ if __name__=='__main__':
     session.query(Review).delete()
     session.commit()
 
-    print("seeding.....")
+    print("kindly wait.....")
 
     restaurants=[]
     for i in range(5):
@@ -56,5 +56,4 @@ if __name__=='__main__':
             
            
     session.bulk_save_objects(reviews)
-    # session.commit()
-    # session.close()
+  
